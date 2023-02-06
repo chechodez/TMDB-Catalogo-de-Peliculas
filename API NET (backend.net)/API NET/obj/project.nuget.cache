@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "GMlv3rQGEVNzla6nE8XNdFWNOeh6gZEmIqrfg/CYgkCOFJLxTVfnt0/qzBY6ryNnmlq8q4ll8NdQBiJ/uAOCRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chech\\OneDrive\\Escritorio\\Catalogo de Pelicula TMDB\\API NET (backend.net)\\API NET\\API NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chech\\.nuget\\packages\\hinetcloud.system.web.http.cors\\23.1.28.14\\hinetcloud.system.web.http.cors.23.1.28.14.nupkg.sha512",
+    "C:\\Users\\chech\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\chech\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\chech\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\chech\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\chech\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\chech\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\chech\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"HiNetCloud.System.Web.Http.Cors 23.1.28.14\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net6.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "HiNetCloud.System.Web.Http.Cors",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
